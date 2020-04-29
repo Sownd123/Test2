@@ -17,7 +17,7 @@
             }
         
 body {
-    background-image: url("error.jpg");
+    background-image: url("https://blog.hubspot.com/hubfs/404-error-page-examples.jpeg");
     background-size: 100% 100%;
     background-attachment: fixed;
 }
